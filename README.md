@@ -3,7 +3,7 @@
 IoT-based real-time water quality monitoring system.
 
 ## Publication
-Published in IJFMR International Journal (2024)
+Published in IJFMR International Journal (2026)
 [Read Paper](docs/aqua-sense-journal.pdf)
 
 ## Components
